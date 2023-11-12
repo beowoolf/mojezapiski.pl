@@ -7197,7 +7197,7 @@ nuxt-jsonld@^2.0.8:
     pathe "^1.1.0"
     schema-dts "^1.1.2"
 
-nuxt-seo-experiments@^3.1.5:
+nuxt-seo-experiments@^3.1.7:
   version "3.1.7"
   resolved "https://registry.yarnpkg.com/nuxt-seo-experiments/-/nuxt-seo-experiments-3.1.7.tgz#e47798dc7d383d08df8a4b5bce4ef4ed830b0c48"
   integrity sha512-pLvvkPy6/R3yo2LaOConvc6wzUJgyza3BgTW9ylufJh18DOKxuXplIep0CyR0jw6iDwtydUuv8rXem8NlNaqBQ==
