@@ -15,7 +15,7 @@
     "@nuxt/image": "^1.0.0",
     "@nuxtjs/color-mode": "3.3.0",
     "@nuxtjs/google-fonts": "^3.0.2",
-    "@types/node": "^20.9.0",
+    "@types/node": "^20.10.0",
     "@vite-pwa/nuxt": "^0.1.2",
     "nuxt": "^3.8.1",
     "nuxt-gtag": "^1.1.1",
