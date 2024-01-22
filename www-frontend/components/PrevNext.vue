@@ -1,8 +1,6 @@
 <!-- ./components/PrevNext.vue -->
 
 <script setup>
-// import icons
-import { ArrowLeftIcon, ArrowRightIcon } from "@heroicons/vue/outline";
 // define prev and next props
 defineProps(["prev", "next"]);
 </script>
@@ -11,14 +9,14 @@ defineProps(["prev", "next"]);
   <ul class="prev-next-cont">
     <li v-if="prev" class="link-item prev">
       <NuxtLink :to="prev._path">
-        <ArrowLeftIcon class="icon stroke" />
+        <BootstrapIcon icon="arrow-left" />
         <span> {{ prev.title }} </span>
       </NuxtLink>
     </li>
     <li v-if="next" class="link-item next">
       <NuxtLink :to="next._path">
         <span> {{ next.title }} </span>
-        <ArrowRightIcon class="icon stroke" />
+        <BootstrapIcon icon="arrow-right" />
       </NuxtLink>
     </li>
   </ul>
