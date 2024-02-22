@@ -68,7 +68,7 @@ export default defineNuxtConfig({
       script: [
         {
           defer: true,
-          src: "//cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js",
+          src: "//cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js",
         },
       ],
     },
