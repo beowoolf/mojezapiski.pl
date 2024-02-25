@@ -6564,7 +6564,7 @@ nuxi@^3.10.1:
   optionalDependencies:
     fsevents "~2.3.3"
 
-nuxt-gtag@^1.2.0:
+nuxt-gtag@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/nuxt-gtag/-/nuxt-gtag-1.2.1.tgz#c5081ea94088dc798abc16daf30ab6b01c4a3dcd"
   integrity sha512-2ss0HLoSmA4wiu5WDSFuVZBT5T4qH+XFqau614OK3idIYeY88uG2Lrn7Iy/xy3jpSiMM+ux/0ziEIa4n1NGcWA==
