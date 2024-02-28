@@ -24,7 +24,7 @@
     "nuxt-simple-sitemap": "^4.4.1",
     "nuxt-site-config": "^2.2.9",
     "nuxt-site-config-kit": "^2.2.9",
-    "playwright": "^1.41.2"
+    "playwright": "^1.42.0"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
