@@ -2220,7 +2220,7 @@
   resolved "https://registry.yarnpkg.com/@types/ms/-/ms-0.7.34.tgz#10964ba0dee6ac4cd462e2795b6bebd407303433"
   integrity sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==
 
-"@types/node@*", "@types/node@^20.11.21":
+"@types/node@*", "@types/node@^20.11.22":
   version "20.11.24"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.11.24.tgz#cc207511104694e84e9fb17f9a0c4c42d4517792"
   integrity sha512-Kza43ewS3xoLgCEpQrsT+xRo/EJej1y0kVYGiLFE1NEODXGzTfwiC6tXTLMQskn1X4/Rjlh0MQUvx9W+L9long==
@@ -6767,11 +6767,12 @@ nuxt@^3.10.3:
     vue-router "^4.3.0"
 
 nypm@^0.3.3, nypm@^0.3.4, nypm@^0.3.6:
-  version "0.3.7"
-  resolved "https://registry.yarnpkg.com/nypm/-/nypm-0.3.7.tgz#a0017dfe9e17cc90eb2d0c79e422f50a9c43263a"
-  integrity sha512-pFMFI4sN/6Hv6g9cGJ9oWorbStMVtVZddUMDbfTR1dktk91z7clI7d4Jzx5AUlXKaO6ucvH8TSPR3sXvuj4M1A==
+  version "0.3.8"
+  resolved "https://registry.yarnpkg.com/nypm/-/nypm-0.3.8.tgz#a16b078b161be5885351e72cf0b97326973722bf"
+  integrity sha512-IGWlC6So2xv6V4cIDmoV0SwwWx7zLG086gyqkyumteH2fIgCAM4nDVFB2iDRszDvmdSVW9xb1N+2KjQ6C7d4og==
   dependencies:
     citty "^0.1.6"
+    consola "^3.2.3"
     execa "^8.0.1"
     pathe "^1.1.2"
     ufo "^1.4.0"
