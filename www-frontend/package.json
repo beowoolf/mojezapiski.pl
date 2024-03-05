@@ -22,7 +22,7 @@
     "nuxt-seo-experiments": "3.1.9",
     "nuxt-simple-robots": "^3.1.10",
     "nuxt-simple-sitemap": "^4.4.1",
-    "nuxt-site-config": "^2.2.9",
+    "nuxt-site-config": "^2.2.10",
     "nuxt-site-config-kit": "^2.2.10",
     "playwright": "^1.42.0"
   },
