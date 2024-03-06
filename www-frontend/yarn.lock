@@ -6659,7 +6659,7 @@ nuxt-site-config-kit@1.6.7, nuxt-site-config-kit@^1.6.1, nuxt-site-config-kit@^1
     std-env "^3.6.0"
     ufo "^1.3.2"
 
-nuxt-site-config-kit@2.2.11, nuxt-site-config-kit@^2.2.0, nuxt-site-config-kit@^2.2.10:
+nuxt-site-config-kit@2.2.11, nuxt-site-config-kit@^2.2.0, nuxt-site-config-kit@^2.2.11:
   version "2.2.11"
   resolved "https://registry.yarnpkg.com/nuxt-site-config-kit/-/nuxt-site-config-kit-2.2.11.tgz#9c93b78c34547eb141ec3b5ef1b422b2ebeb329b"
   integrity sha512-ApoVYvJDJq0//Y20C2sn6NjWV1Xg+zfyRfPVKs1GKtuk0fvUKzkmedwt6V15MhkMdNBIYwaMB0wfWzm6Pw9DyA==
