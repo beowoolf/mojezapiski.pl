@@ -13,7 +13,7 @@ export default function (
         currentPath.length > articlePagePrefix.length + 1 &&
         !currentPath.includes(categoryPagePrefix)
     )
-    defineRobotMeta()
+    // defineRobotMeta()
     useHead({
         title: `${computedPageTitle} | ${companyName}`,
         meta: [
