@@ -2168,6 +2168,7 @@
     picomatch "^2.3.1"
 
 "@rollup/wasm-node@^4.18.0", rollup@^2.43.1, rollup@^4.13.0, rollup@^4.13.2, "rollup@npm:@rollup/wasm-node":
+  name rollup
   version "4.18.0"
   resolved "https://registry.yarnpkg.com/@rollup/wasm-node/-/wasm-node-4.18.0.tgz#d79efa30475d44d476bdb19a2f1af4623dba8dce"
   integrity sha512-DkLoyblRMhJw9ZogW9zCpyH0CNJ+7GaM7Ty+Vl+G21z/Gr7uKBaXqcJqwWUiNYVxTOgxZrxhDG6pmOFxOuswvw==
@@ -2687,10 +2688,10 @@
     node-gyp-build "^4.2.2"
     resolve-from "^5.0.0"
 
-"@vite-pwa/nuxt@^0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@vite-pwa/nuxt/-/nuxt-0.7.0.tgz#413364e9a4b541173d284a0c0253ef72efa1a9a5"
-  integrity sha512-s4bNChQSlhIIRDZApxWaA4p10UnBDm+DP/mnNgncRaZeWxAg3wpikR8PY/c0ZwJ5H2GBS+k7CVUlKryZZ44DGg==
+"@vite-pwa/nuxt@^0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@vite-pwa/nuxt/-/nuxt-0.8.0.tgz#806ab42bf76c6ef26e1f160091e4002cc7a73256"
+  integrity sha512-iQDBUZgi0iNAZOXcVt4lxSBn1hYG9KoOhM5VCi1RqltQYKHdY04fUnNFaTiACe5reRui03YLFU6zWmdJVM/a/A==
   dependencies:
     "@nuxt/kit" "^3.9.0"
     pathe "^1.1.1"
@@ -8454,6 +8455,7 @@ streamx@^2.15.0, streamx@^2.16.1:
     bare-events "^2.2.0"
 
 "string-width-cjs@npm:string-width@^4.2.0", "string-width@^1.0.2 || 2 || 3 || 4", string-width@^4.1.0, string-width@^4.2.0, string-width@^4.2.3:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -8549,6 +8551,7 @@ stringify-object@^3.3.0:
     is-regexp "^1.0.0"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
@@ -9725,6 +9728,7 @@ workbox-window@7.1.0, workbox-window@^7.1.0:
     workbox-core "7.1.0"
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
