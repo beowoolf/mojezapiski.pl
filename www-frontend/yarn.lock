@@ -1356,9 +1356,9 @@
     "@iconify/types" "*"
 
 "@iconify/collections@^1.0.406":
-  version "1.0.433"
-  resolved "https://registry.yarnpkg.com/@iconify/collections/-/collections-1.0.433.tgz#26b7b2f67e2cb1ae954f20b69e9faf0661b88799"
-  integrity sha512-MeMIbKv32s+b4bMY80H6NjnovdA0oEUZvnzo/HxpFImw3tF5QoZjaVuR1RPudOXveIQGprfRFUbOO7vmbbYHsw==
+  version "1.0.434"
+  resolved "https://registry.yarnpkg.com/@iconify/collections/-/collections-1.0.434.tgz#4a60c6daa9725b94c197c3ad28ea81b3a75b87d2"
+  integrity sha512-cel21NyheP9aiWIx2c9gZPyWEjLeBO+Azc55LQI/2W4HnTWKAHa1wFJu36ra8p4f//PswuceLcbxvVSDsKLzag==
   dependencies:
     "@iconify/types" "*"
 
@@ -1667,7 +1667,7 @@
     "@nuxt/schema" "^3.9.1"
     execa "^7.2.0"
 
-"@nuxt/devtools-kit@1.3.6", "@nuxt/devtools-kit@^1.0.5", "@nuxt/devtools-kit@^1.0.6", "@nuxt/devtools-kit@^1.0.8", "@nuxt/devtools-kit@^1.1.1", "@nuxt/devtools-kit@^1.1.5":
+"@nuxt/devtools-kit@1.3.6", "@nuxt/devtools-kit@^1.0.5", "@nuxt/devtools-kit@^1.0.6", "@nuxt/devtools-kit@^1.0.8", "@nuxt/devtools-kit@^1.1.1", "@nuxt/devtools-kit@^1.3.6":
   version "1.3.6"
   resolved "https://registry.yarnpkg.com/@nuxt/devtools-kit/-/devtools-kit-1.3.6.tgz#27e3e19a5c0738fe88849a7fbf108db99f3ff5ad"
   integrity sha512-FM0s9CrTxwvaMcakWZc7oGqzSj4GPalcY3PmyZhollMyR2dqBB1n0ZfnTdLm8KUSgc7jdFR6DuG7PfQwAm06tQ==
@@ -2468,10 +2468,10 @@
   optionalDependencies:
     fsevents "~2.3.2"
 
-"@shikijs/core@1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.3.0.tgz#5b93b51ddb8def1e3a1543107f9b5b0540f716f6"
-  integrity sha512-7fedsBfuILDTBmrYZNFI8B6ATTxhQAasUHllHmjvSZPnoq4bULWoTpHwmuQvZ8Aq03/tAa2IGo6RXqWtHdWaCA==
+"@shikijs/core@1.6.4":
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.6.4.tgz#06bbb38f2cac7ee587be68586a9a9c0768a06194"
+  integrity sha512-WTU9rzZae1p2v6LOxMf6LhtmZOkIHYYW160IuahUyJy7YXPPjyWZLR1ag+SgD22ZMxZtz1gfU6Tccc8t0Il/XA==
 
 "@shikijs/core@1.9.0":
   version "1.9.0"
@@ -2617,7 +2617,7 @@
   resolved "https://registry.yarnpkg.com/@types/ms/-/ms-0.7.34.tgz#10964ba0dee6ac4cd462e2795b6bebd407303433"
   integrity sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==
 
-"@types/node@*", "@types/node@>=13.7.0", "@types/node@^20.14.7":
+"@types/node@*", "@types/node@>=13.7.0", "@types/node@^20.14.8":
   version "20.14.8"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.14.8.tgz#45c26a2a5de26c3534a9504530ddb3b27ce031ac"
   integrity sha512-DO+2/jZinXfROG7j7WKFn/3C6nFwxy2lLpgLjEXJz+0XKphZlTLJ14mo8Vfg8X5BWN6XjyESXq+LcYdT7tR3bA==
@@ -6108,9 +6108,9 @@ lru-cache@^5.1.1:
     yallist "^3.0.2"
 
 magic-string-ast@^0.6.0:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/magic-string-ast/-/magic-string-ast-0.6.1.tgz#c1e5d78b20ec920265567446181f6e5c521e8217"
-  integrity sha512-eczKQUDaBpB/mcEqZZNGEUG1FQNsXCuk3uOrCpu6y7qTygIy6jnpqDa62j9MGKSoqlXhM1lCFQv1THuGDQtvUA==
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/magic-string-ast/-/magic-string-ast-0.6.2.tgz#180679c584bdea9de1dbb6c755fd3e4bf1b0b509"
+  integrity sha512-oN3Bcd7ZVt+0VGEs7402qR/tjgjbM7kPlH/z7ufJnzTLVBzXJITRHOJiwMmmYMgZfdoWQsfQcY+iKlxiBppnMA==
   dependencies:
     magic-string "^0.30.10"
 
@@ -7157,12 +7157,12 @@ nuxt-seo-experiments@3.1.9:
     ufo "^1.3.2"
 
 nuxt-simple-robots@^4.0.0-rc.17:
-  version "4.0.0-rc.17"
-  resolved "https://registry.yarnpkg.com/nuxt-simple-robots/-/nuxt-simple-robots-4.0.0-rc.17.tgz#f29ef23365c2c9bbd5b3aa7156cf33a57606a0c6"
-  integrity sha512-iknbStSqQNc1762zBnQKgxxbLyezjWdV5RNctC725eg+++a3JgOw9pwxPHK8GxtQ8yQTQL5UJH4KKLZ8HqN1vg==
+  version "4.0.0-rc.19"
+  resolved "https://registry.yarnpkg.com/nuxt-simple-robots/-/nuxt-simple-robots-4.0.0-rc.19.tgz#24303eed8c86427e9c613e33d9317e6932f07222"
+  integrity sha512-Q9ExiIPvvircFY8oDi/+7WZjTvVMu6acXberEQQwfIx6e+wXat7ZRR9POd2cucJxlxeFgPNqceHad+WGQ8YneA==
   dependencies:
-    "@nuxt/devtools-kit" "^1.1.5"
-    "@nuxt/kit" "^3.11.2"
+    "@nuxt/devtools-kit" "^1.3.6"
+    "@nuxt/kit" "^3.12.2"
     consola "^3.2.3"
     defu "^6.1.4"
     flatted "^3.3.1"
@@ -7171,8 +7171,8 @@ nuxt-simple-robots@^4.0.0-rc.17:
     nuxt-site-config "^2.2.12"
     nuxt-site-config-kit "^2.2.12"
     pathe "^1.1.2"
-    pkg-types "^1.0.3"
-    shiki "1.3.0"
+    pkg-types "^1.1.1"
+    shiki "1.6.4"
     sirv "^2.0.4"
     std-env "^3.7.0"
     ufo "^1.5.3"
@@ -8530,12 +8530,12 @@ shiki-es@^0.14.0:
   resolved "https://registry.yarnpkg.com/shiki-es/-/shiki-es-0.14.0.tgz#64f7902ad47eda244840836f70f68f9d24aac6e6"
   integrity sha512-e+/aueHx0YeIEut6RXC6K8gSf0PykwZiHD7q7AHtpTW8Kd8TpFUIWqTwhAnrGjOyOMyrwv+syr5WPagMpDpVYQ==
 
-shiki@1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.3.0.tgz#3eda35cb49f6f0a98525e9da48fc072e6c655a3f"
-  integrity sha512-9aNdQy/etMXctnPzsje1h1XIGm9YfRcSksKOGqZWXA/qP9G18/8fpz5Bjpma8bOgz3tqIpjERAd6/lLjFyzoww==
+shiki@1.6.4:
+  version "1.6.4"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.6.4.tgz#7413d7425732fb603e0eafa33aeb7cd6a1b0da74"
+  integrity sha512-X88chM7w8jnadoZtjPTi5ahCJx9pc9f8GfEkZAEYUTlcUZIEw2D/RY86HI/LkkE7Nj8TQWkiBfaFTJ3VJT6ESg==
   dependencies:
-    "@shikijs/core" "1.3.0"
+    "@shikijs/core" "1.6.4"
 
 shiki@1.9.0, shiki@^1.1.7, shiki@^1.6.4, shiki@^1.7.0:
   version "1.9.0"
