@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  compatibilityDate: '2024-07-04',
   css: [
     "~/node_modules/bootstrap/dist/css/bootstrap.min.css",
     "~/node_modules/bootstrap-icons/font/bootstrap-icons.css",
