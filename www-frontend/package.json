@@ -24,7 +24,7 @@
     "nuxt-simple-robots": "^4.0.0-rc.19",
     "nuxt-simple-sitemap": "^4.4.1",
     "nuxt-site-config": "^2.2.13",
-    "nuxt-site-config-kit": "^2.2.13",
+    "nuxt-site-config-kit": "^2.2.14",
     "playwright": "^1.45.1"
   },
   "dependencies": {
