@@ -2124,11 +2124,10 @@
     estree-walker "^2.0.2"
     picomatch "^2.3.1"
 
-"@rollup/wasm-node@^4.18.0", rollup@^2.43.1, rollup@^4.13.0, rollup@^4.18.0, "rollup@npm:@rollup/wasm-node":
-  name rollup
-  version "4.18.1"
-  resolved "https://registry.yarnpkg.com/@rollup/wasm-node/-/wasm-node-4.18.1.tgz#fa74e4eeed4b48661c046a747ac645d18fbadaa4"
-  integrity sha512-/5JNIo7af3BkPdsm0omZTwi/KcEiknR3/bs2HEdmudgey+xDyX0qtcM7Q8MFbpqddzR6+FleUjyGVv1ykL3v1Q==
+"@rollup/wasm-node@^4.18.1":
+  version "4.19.0"
+  resolved "https://registry.yarnpkg.com/@rollup/wasm-node/-/wasm-node-4.19.0.tgz#01f1e53b413c921ef9dcb31478bb41c49d3ec4d7"
+  integrity sha512-VrWeEGsuUzEfNPWKtSinPU59l2tfcQPm9eV5ngnM36X2l9JNCXtutzEEy8xtjMWXOXVe9IjE8037AmBJIuQA+w==
   dependencies:
     "@types/estree" "1.0.5"
   optionalDependencies:
@@ -7454,6 +7453,15 @@ rollup-plugin-visualizer@^5.12.0:
     picomatch "^2.3.1"
     source-map "^0.7.4"
     yargs "^17.5.1"
+
+rollup@^2.43.1, rollup@^4.13.0, rollup@^4.18.0, "rollup@npm:@rollup/wasm-node":
+  version "4.18.1"
+  resolved "https://registry.yarnpkg.com/@rollup/wasm-node/-/wasm-node-4.18.1.tgz#fa74e4eeed4b48661c046a747ac645d18fbadaa4"
+  integrity sha512-/5JNIo7af3BkPdsm0omZTwi/KcEiknR3/bs2HEdmudgey+xDyX0qtcM7Q8MFbpqddzR6+FleUjyGVv1ykL3v1Q==
+  dependencies:
+    "@types/estree" "1.0.5"
+  optionalDependencies:
+    fsevents "~2.3.2"
 
 run-applescript@^7.0.0:
   version "7.0.0"
