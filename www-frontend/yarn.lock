@@ -6889,7 +6889,7 @@ nuxt-site-config-kit@2.2.18, nuxt-site-config-kit@^2.2.16, nuxt-site-config-kit@
     std-env "^3.7.0"
     ufo "^1.5.4"
 
-nuxt-site-config@^2.2.0, nuxt-site-config@^2.2.14, nuxt-site-config@^2.2.15:
+nuxt-site-config@^2.2.0, nuxt-site-config@^2.2.14:
   version "2.2.15"
   resolved "https://registry.yarnpkg.com/nuxt-site-config/-/nuxt-site-config-2.2.15.tgz#79e31a88bca91e9f3c36d27912fadef16601a0e8"
   integrity sha512-V/gsWAeSWQi7FGoy6vicf6DXaaNJ/akail54dMWnrkcBre4PpBSwP7arZqmZZzj1mc0v7LoYqISr9qeXhcT1NA==
@@ -6904,7 +6904,7 @@ nuxt-site-config@^2.2.0, nuxt-site-config@^2.2.14, nuxt-site-config@^2.2.15:
     site-config-stack "2.2.15"
     ufo "^1.5.3"
 
-nuxt-site-config@^2.2.16:
+nuxt-site-config@^2.2.16, nuxt-site-config@^2.2.18:
   version "2.2.18"
   resolved "https://registry.yarnpkg.com/nuxt-site-config/-/nuxt-site-config-2.2.18.tgz#4c815a946805cf13271a72da20f82e63689a0f60"
   integrity sha512-NU39ANP1kvRBzpEWV496y/lf9PKVv3t1VKX3zmQ1POcbzAXU4gm0Mh5NKOaLEcoXj6bQnziFNqjzHX3DAA8Aog==
