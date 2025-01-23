@@ -36,7 +36,7 @@
         <div class="pb-4">
             <NuxtLink class="btn btn-primary btn-sm float-right mr-5"
                 :class="$colorMode.preference == 'light' ? 'btn-primary' : 'btn-primary'" :to="article._path"
-                :title="article.title + ' - sCzytaj więcej...'">Czytaj więcej...</NuxtLink>
+                :title="article.title + ' - Czytaj więcej...'">Czytaj więcej...</NuxtLink>
         </div>
     </div>
 </template>
